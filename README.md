@@ -1,4 +1,7 @@
 # Modul6
+Nama : Filzah Dahliah
+Nim  : 2020-181
+
 praktikum yang berfokus pada pengembangan model untuk mengenali gestur tangan dalam permainan batu, kertas, gunting (Rock-Paper-Scissors atau RPS). Dataset yang digunakan terdiri dari gambar-gambar representatif dari ketiga gestur tersebut, yaitu ROCK, PAPER, dan SCISSORS.
 
 Pada modul ini, model dilatih menggunakan pendekatan Transfer Learning dengan memanfaatkan arsitektur . EffNetmod5 adalah serangkaian arsitektur jaringan saraf yang dikembangkan oleh Google, yang merupakan evolusi dari model sebelumnya, yaitu EfficientNet.
